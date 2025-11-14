@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111859847322",
+    "project_id": "loginfirebasemvvm-4ee51",
+    "storage_bucket": "loginfirebasemvvm-4ee51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111859847322:android:ae808cd0889c0b29f4cf23",
+        "android_client_info": {
+          "package_name": "com.example.hiltfirebaselogin_lgomdom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6peEZjnJm-oFeT2Dz5aaPPDUZv4vX0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
